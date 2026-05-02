@@ -8,4 +8,4 @@ This template should help get you started developing with Tauri, React and Types
 
 ## Licensing
 
-[MIT](<./MIT\ license>) [OR](https://spdx.github.io/spdx-spec/v2.3/SPDX-license-expressions/#d42-disjunctive-or-operator) [Apache License 2.0](<./Apache-2.0 license>)
+[MIT](./LICENSE-MIT) [OR](https://spdx.github.io/spdx-spec/v2.3/SPDX-license-expressions/#d42-disjunctive-or-operator) [Apache License 2.0](./LICENSE-APACHE-2.0)
